@@ -1,7 +1,9 @@
 # BinTEST
 
-# Made in visual studio 2022 
+# Made in Microsoft Visual Studio 2022 
 # Might not work in 2019 version!
+
+
 Vytvořte datový soubor seznam.dat. Tento soubor bude obsahovat přítomné žáky a jejich známky z předmětu (vymyslete). Každá známka může mít jinou váhu. Jsou to důvěrné informace proto .dat.
 
 Struktura souboru:
