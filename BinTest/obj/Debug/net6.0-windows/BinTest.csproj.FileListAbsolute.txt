@@ -1,0 +1,17 @@
+C:\Users\fokus\source\repos\BinTest\BinTest\bin\Debug\net6.0-windows\BinTest.exe
+C:\Users\fokus\source\repos\BinTest\BinTest\bin\Debug\net6.0-windows\BinTest.deps.json
+C:\Users\fokus\source\repos\BinTest\BinTest\bin\Debug\net6.0-windows\BinTest.runtimeconfig.json
+C:\Users\fokus\source\repos\BinTest\BinTest\bin\Debug\net6.0-windows\BinTest.dll
+C:\Users\fokus\source\repos\BinTest\BinTest\bin\Debug\net6.0-windows\BinTest.pdb
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.csproj.AssemblyReference.cache
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.Form1.resources
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.csproj.GenerateResource.cache
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.AssemblyInfoInputs.cache
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.AssemblyInfo.cs
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.csproj.CoreCompileInputs.cache
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.dll
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\refint\BinTest.dll
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.pdb
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\BinTest.genruntimeconfig.cache
+C:\Users\fokus\source\repos\BinTest\BinTest\obj\Debug\net6.0-windows\ref\BinTest.dll
